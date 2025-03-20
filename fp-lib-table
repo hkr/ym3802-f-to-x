@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ym3802")(type "KiCad")(uri "/Users/fp/dev/YM3802-F-to-X")(options "")(descr ""))
+)
